@@ -9,7 +9,7 @@ Me mande uma mensagem!
 )](https://api.whatsapp.com/send?phone=5511984160395&text=Ol%C3%A1,%20me%20mande%20uma%20mensagem!
 )
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/guilherme-gabriel-a43141346/)
+)](www.linkedin.com/in/guilherme-gabrielDEV)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/guii_gabriel_?igsh=eTVkajhqOXE4cXFr)
 
